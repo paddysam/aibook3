@@ -1,6 +1,6 @@
 ---
 description: Fanqie novel body style for chapter drafts
-globs: 章节/第*章_*.md
+globs: 章节/**/第*章_*.md
 alwaysApply: false
 ---
 
